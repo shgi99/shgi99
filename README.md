@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shgi99&show_icons=true&theme=radical" />
 </p>
 
-<hr>
 
 <p align="center">
   <strong><font size="5">📖 Languages & Frameworks</font></strong>
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgi99&hide_progress=false&layout=compact" />
